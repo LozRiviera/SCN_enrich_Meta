@@ -1,6 +1,7 @@
 # Data and Jupyter/IPython notebooks to examine enriched transcripts in the SCN via Meta-analysis
-### These notebooks constitute the meta-analysis carried out in Brown et al (REF)
+### These notebooks constitute the meta-analysis carried out in Brown et al 2017:
 
+### Laurence A. Brown, John Williams, Lewis Taylor, Ross J. Thomson, Patrick M. Nolan, Russell G. Foster, Stuart N. Peirson; Meta-analysis of transcriptomic datasets identifies genes enriched in the mammalian circadian pacemaker,  Nucleic Acids Research, Volume 45, Issue 17, 29 September 2017, Pages 9860–9873, https://doi.org/10.1093/nar/gkx714
 
 The analysis uses the Python programming language, version 2.7.11, as well a a number of more specific packages. These are all found as part of the Anaconda Python environment produced by Contiuum Analytics This is BSD licenced and cross platform. (https://www.continuum.io/downloads)
 >all required python packages:
